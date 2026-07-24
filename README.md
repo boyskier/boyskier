@@ -15,7 +15,7 @@ A medical English speaking practice tool for rehearsing clinical communication.
 
 ### [AI_LectureNote Retrospective Pilot](https://github.com/boyskier/ailecturenote-retrospective-pilot)
 
-A retrospective evaluation of an AI-assisted medical lecture transcription project that I previously developed.
+Repository documenting a retrospective evaluation of a collaborative AI-assisted medical lecture transcription project.
 
 The project and its limitations are documented in an [arXiv technical report](https://arxiv.org/abs/2607.17237).
 

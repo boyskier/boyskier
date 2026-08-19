@@ -6,12 +6,14 @@ I build small tools around problems I encounter while studying medicine.
 
 ## Selected Projects
 
-### [Bedside English](https://boyskier.github.io/bedside-english/)
+### [Bedside English: Talk & Train](https://boyskier.github.io/bedside-english/)
 
-A medical English speaking practice tool for rehearsing clinical communication.
+An independently developed desktop and Android application for practicing spoken English in clinical scenarios.
+
+**Available on [Google Play](https://play.google.com/store/apps/details?id=com.boyskier.bedsideenglish).**
 
 * [Desktop application](https://github.com/boyskier/BedsideEnglish-Desktop)
-* [Android application](https://github.com/boyskier/BedsideEnglish-Android)
+* [Android source code](https://github.com/boyskier/BedsideEnglish-Android)
 
 ### [AI_LectureNote Retrospective Pilot](https://github.com/boyskier/ailecturenote-retrospective-pilot)
 

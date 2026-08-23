@@ -6,7 +6,7 @@ I build small tools around problems I encounter while studying medicine.
 
 ## Selected Projects
 
-### [Bedside English: Talk & Train](https://boyskier.github.io/bedside-english/)
+### [Bedside English: Talk & Train](https://bedsideenglish.github.io/)
 
 An independently developed desktop and Android application for practicing spoken English in clinical scenarios.
 
